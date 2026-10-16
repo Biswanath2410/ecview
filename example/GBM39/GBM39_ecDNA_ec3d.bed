@@ -1,0 +1,4 @@
+#chr	start	end	cycle_id	weight  orientation  iscyclic
+chr7	54763280	55127268	1	1.000000  +  True
+chr7	55155020	55609190	1	1.000000  +  True
+chr7	55610094	56049370	1	1.000000  +  True
